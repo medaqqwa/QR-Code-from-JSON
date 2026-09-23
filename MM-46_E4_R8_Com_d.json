@@ -3,14 +3,14 @@
     "BEGINNING": "14.09.2026",
     "CYANAMIDE TREATMENT AT 60°C": "14.09.2026",
     "TUBE FURNACE ": "16.09.2026",
-    "O2 PLASMA": "not needed",
+    "O2 PLASMA ACTIVATION": "not needed",
     "IMPREGNATION": "17.09.2026",
-    "SYNTHESIS DONE?": "SYN DONE ",
-    "ACT: CO2 ": "",
-    "M: CO2 ": "",
-    "ACT: N2 273K": "18.09.2026",
-    "M: N2 273 K": "21.09.2026",
-    "ACT: N2 77K ": "",
-    "M: N2 77K": "",
-    "CHARACTERIZATION DONE?": "C NOT FINISHED"
+    "SYNTHESIS DONE?": "DONE ",
+    "ACTIVATION: CO2 ": "22.09.2026",
+    "MEASUREMENT: CO2 ": "23.09.2026",
+    "ACTIVATION: N2 273K": "21.09.2026",
+    "MEASUREMENT: N2 273 K": "22.09.2026",
+    "ACTIVATION: N2 77K ": "",
+    "MEASUREMENT: N2 77K": "",
+    "CHARACTERIZATION DONE?": "NOT FINISHED"
 }

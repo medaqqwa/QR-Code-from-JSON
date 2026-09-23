@@ -3,14 +3,14 @@
     "BEGINNING": "",
     "CYANAMIDE TREATMENT AT 60°C": "",
     "TUBE FURNACE ": "",
-    "O2 PLASMA": "not needed",
+    "O2 PLASMA ACTIVATION": "not needed",
     "IMPREGNATION": "",
     "SYNTHESIS DONE?": "",
-    "ACT: CO2 ": "",
-    "M: CO2 ": "",
-    "ACT: N2 273K": "",
-    "M: N2 273 K": "",
-    "ACT: N2 77K ": "",
-    "M: N2 77K": "",
-    "CHARACTERIZATION DONE?": "C NOT FINISHED"
+    "ACTIVATION: CO2 ": "",
+    "MEASUREMENT: CO2 ": "",
+    "ACTIVATION: N2 273K": "",
+    "MEASUREMENT: N2 273 K": "",
+    "ACTIVATION: N2 77K ": "",
+    "MEASUREMENT: N2 77K": "",
+    "CHARACTERIZATION DONE?": "NOT FINISHED"
 }
