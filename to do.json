@@ -21,31 +21,31 @@
     },
     {
         "SAMPLE_NAME": "MM-37_E3_R8_Com_d",
-        "Arbeitsschritt": "CYANAMIDE TREATMENT AT 60°C"
+        "Arbeitsschritt": "CA TREATMENT AT 60°C"
     },
     {
         "SAMPLE_NAME": "MM-38_E3_R9_Com_ad",
-        "Arbeitsschritt": "CYANAMIDE TREATMENT AT 60°C"
+        "Arbeitsschritt": "CA TREATMENT AT 60°C"
     },
     {
         "SAMPLE_NAME": "MM-40_E3_R11_Com_acd",
-        "Arbeitsschritt": "CYANAMIDE TREATMENT AT 60°C"
+        "Arbeitsschritt": "CA TREATMENT AT 60°C"
     },
     {
         "SAMPLE_NAME": "MM-41_E3_R12_Com_abcd",
-        "Arbeitsschritt": "CYANAMIDE TREATMENT AT 60°C"
+        "Arbeitsschritt": "CA TREATMENT AT 60°C"
     },
     {
         "SAMPLE_NAME": "MM-39_E3_R10_Com_abc",
-        "Arbeitsschritt": "O2 PLASMA ACTIVATION"
+        "Arbeitsschritt": "O2 PLASMA "
     },
     {
         "SAMPLE_NAME": "MM-50_E4_R13_Com_cd",
-        "Arbeitsschritt": "O2 PLASMA ACTIVATION"
+        "Arbeitsschritt": "O2 PLASMA "
     },
     {
         "SAMPLE_NAME": "MM-53_E4_R13_Com_bcd",
-        "Arbeitsschritt": "O2 PLASMA ACTIVATION"
+        "Arbeitsschritt": "O2 PLASMA "
     },
     {
         "SAMPLE_NAME": "MM-50_E4_R13_Com_cd",
