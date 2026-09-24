@@ -1,0 +1,62 @@
+[
+    {
+        "SAMPLE_NAME": "MM-16_E2_R3_Com_1",
+        "Arbeitsschritt": "ACTIVATION: CO2 "
+    },
+    {
+        "SAMPLE_NAME": "MM-17_E2_R4_Com_ac",
+        "Arbeitsschritt": "ACTIVATION: CO2 "
+    },
+    {
+        "SAMPLE_NAME": "MM-19_E2_R6_Com_c",
+        "Arbeitsschritt": "ACTIVATION: CO2 "
+    },
+    {
+        "SAMPLE_NAME": "MM-20_E2_R7_Com_bc",
+        "Arbeitsschritt": "ACTIVATION: CO2 "
+    },
+    {
+        "SAMPLE_NAME": "MM-21_E2_R8_Com_d",
+        "Arbeitsschritt": "MEASUREMENT: CO2 "
+    },
+    {
+        "SAMPLE_NAME": "MM-21_E2_R8_Com_d",
+        "Arbeitsschritt": "ACTIVATION: N2 77K "
+    },
+    {
+        "SAMPLE_NAME": "MM-22_E2_R9_Com_ad",
+        "Arbeitsschritt": "MEASUREMENT: N2 77K"
+    },
+    {
+        "SAMPLE_NAME": "MM-23_E2_R10_Com_abc",
+        "Arbeitsschritt": "ACTIVATION: N2 77K "
+    },
+    {
+        "SAMPLE_NAME": "MM-24_E2_R11_Com_acd",
+        "Arbeitsschritt": "MEASUREMENT: N2 77K"
+    },
+    {
+        "SAMPLE_NAME": "MM-25_E2_R12_Com_abcd",
+        "Arbeitsschritt": "MEASUREMENT: N2 273 K"
+    },
+    {
+        "SAMPLE_NAME": "MM-25_E2_R12_Com_abcd",
+        "Arbeitsschritt": "ACTIVATION: N2 77K "
+    },
+    {
+        "SAMPLE_NAME": "MM-26_E2_R13_Com_cd",
+        "Arbeitsschritt": "MEASUREMENT: N2 77K"
+    },
+    {
+        "SAMPLE_NAME": "MM-27_E2_R14_Com_abd",
+        "Arbeitsschritt": "MEASUREMENT: N2 273 K"
+    },
+    {
+        "SAMPLE_NAME": "MM-27_E2_R14_Com_abd",
+        "Arbeitsschritt": "MEASUREMENT: N2 77K"
+    },
+    {
+        "SAMPLE_NAME": "MM-29_E2_R16_Com_bcd",
+        "Arbeitsschritt": "ACTIVATION: N2 77K "
+    }
+]
