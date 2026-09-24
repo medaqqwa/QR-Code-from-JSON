@@ -58,5 +58,81 @@
     {
         "SAMPLE_NAME": "MM-29_E2_R16_Com_bcd",
         "Arbeitsschritt": "ACTIVATION: N2 77K "
+    },
+    {
+        "SAMPLE_NAME": "MM-37_E3_R8_Com_d",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-37_E3_R8_Com_d",
+        "Arbeitsschritt": "CYANAMIDE TREATMENT AT 60°C"
+    },
+    {
+        "SAMPLE_NAME": "MM-38_E3_R9_Com_ad",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-38_E3_R9_Com_ad",
+        "Arbeitsschritt": "CYANAMIDE TREATMENT AT 60°C"
+    },
+    {
+        "SAMPLE_NAME": "MM-39_E3_R10_Com_abc",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-39_E3_R10_Com_abc",
+        "Arbeitsschritt": "O2 PLASMA ACTIVATION"
+    },
+    {
+        "SAMPLE_NAME": "MM-40_E3_R11_Com_acd",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-40_E3_R11_Com_acd",
+        "Arbeitsschritt": "CYANAMIDE TREATMENT AT 60°C"
+    },
+    {
+        "SAMPLE_NAME": "MM-41_E3_R12_Com_abcd",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-41_E3_R12_Com_abcd",
+        "Arbeitsschritt": "CYANAMIDE TREATMENT AT 60°C"
+    },
+    {
+        "SAMPLE_NAME": "MM-46_E4_R8_Com_d",
+        "Arbeitsschritt": "ACTIVATION: N2 77K "
+    },
+    {
+        "SAMPLE_NAME": "MM-47_E4_R9_Com_ad",
+        "Arbeitsschritt": "ACTIVATION: N2 77K "
+    },
+    {
+        "SAMPLE_NAME": "MM-48_E4_R11_Com_acd",
+        "Arbeitsschritt": "ACTIVATION: N2 77K "
+    },
+    {
+        "SAMPLE_NAME": "MM-50_E4_R13_Com_cd",
+        "Arbeitsschritt": "O2 PLASMA ACTIVATION"
+    },
+    {
+        "SAMPLE_NAME": "MM-50_E4_R13_Com_cd",
+        "Arbeitsschritt": "IMPREGNATION"
+    },
+    {
+        "SAMPLE_NAME": "MM-51_E4_R13_Com_abd",
+        "Arbeitsschritt": "IMPREGNATION"
+    },
+    {
+        "SAMPLE_NAME": "MM-52_E4_R13_Com_bd",
+        "Arbeitsschritt": "IMPREGNATION"
+    },
+    {
+        "SAMPLE_NAME": "MM-53_E4_R13_Com_bcd",
+        "Arbeitsschritt": "O2 PLASMA ACTIVATION"
+    },
+    {
+        "SAMPLE_NAME": "MM-53_E4_R13_Com_bcd",
+        "Arbeitsschritt": "IMPREGNATION"
     }
 ]
