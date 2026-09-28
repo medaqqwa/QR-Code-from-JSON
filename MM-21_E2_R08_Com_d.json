@@ -10,7 +10,7 @@
     "POSITION Tube Furnace": "lower",
     "MASS: after Tube furnace [mg]": "0.1636",
     "O2 PLASMA ": "not needed",
-    "MASS: after O2 Plasma": "-",
+    "MASS: after O2 Plasma": "not needed",
     "IMPREGNATION": "11.09.2026",
     "MASS: after impregnation": "0.1998",
     "SYNTHESIS DONE?": "DONE",
