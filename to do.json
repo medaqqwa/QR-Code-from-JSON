@@ -1,5 +1,21 @@
 [
     {
+        "SAMPLE_NAME": "MM-Kynol_Com_pure",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-Kynol_Com_cd",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-Kynol_Com_c",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-Kynol_Com_d",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
         "SAMPLE_NAME": "MM-30_E3_R01_Com_ab",
         "Arbeitsschritt": "BEGINNING"
     },
@@ -12,14 +28,6 @@
         "Arbeitsschritt": "BEGINNING"
     },
     {
-        "SAMPLE_NAME": "MM-42_E3_R13_Com_cd",
-        "Arbeitsschritt": "BEGINNING"
-    },
-    {
-        "SAMPLE_NAME": "MM-43_E3_R14_Com_abd",
-        "Arbeitsschritt": "BEGINNING"
-    },
-    {
         "SAMPLE_NAME": "MM-44_E3_R15_Com_bd",
         "Arbeitsschritt": "BEGINNING"
     },
@@ -28,11 +36,11 @@
         "Arbeitsschritt": "BEGINNING"
     },
     {
-        "SAMPLE_NAME": "MM-42_E3_R13_Com_cd",
+        "SAMPLE_NAME": "MM-Kynol_Com_cd",
         "Arbeitsschritt": "CA TREATMENT AT 60°C"
     },
     {
-        "SAMPLE_NAME": "MM-43_E3_R14_Com_abd",
+        "SAMPLE_NAME": "MM-Kynol_Com_d",
         "Arbeitsschritt": "CA TREATMENT AT 60°C"
     },
     {
@@ -101,19 +109,19 @@
     },
     {
         "SAMPLE_NAME": "MM-14_E2_R01_Com_ab",
-        "Arbeitsschritt": "ACTIVATION: CO2 "
+        "Arbeitsschritt": "ACTIVATION: N2 273K"
     },
     {
         "SAMPLE_NAME": "MM-15_E2_R02_Com_b",
-        "Arbeitsschritt": "ACTIVATION: CO2 "
+        "Arbeitsschritt": "ACTIVATION: N2 273K"
     },
     {
         "SAMPLE_NAME": "MM-20_E2_R07_Com_bc",
-        "Arbeitsschritt": "ACTIVATION: CO2 "
+        "Arbeitsschritt": "ACTIVATION: N2 273K"
     },
     {
         "SAMPLE_NAME": "MM-25_E2_R12_Com_abcd",
-        "Arbeitsschritt": "ACTIVATION: CO2 "
+        "Arbeitsschritt": "ACTIVATION: N2 273K"
     },
     {
         "SAMPLE_NAME": "MM-27_E2_R14_Com_abd",
