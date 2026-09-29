@@ -64,26 +64,6 @@
         "Arbeitsschritt": "POSITION Tube Furnace"
     },
     {
-        "SAMPLE_NAME": "MM-25_E2_R12_Com_abcd",
-        "Arbeitsschritt": "IMPREGNATION"
-    },
-    {
-        "SAMPLE_NAME": "MM-27_E2_R14_Com_abd",
-        "Arbeitsschritt": "IMPREGNATION"
-    },
-    {
-        "SAMPLE_NAME": "MM-28_E2_R15_Com_bd",
-        "Arbeitsschritt": "IMPREGNATION"
-    },
-    {
-        "SAMPLE_NAME": "MM-30_E3_R01_Com_ab",
-        "Arbeitsschritt": "IMPREGNATION"
-    },
-    {
-        "SAMPLE_NAME": "MM-31_E3_R02_Com_b",
-        "Arbeitsschritt": "IMPREGNATION"
-    },
-    {
         "SAMPLE_NAME": "MM-14_E2_R01_Com_ab",
         "Arbeitsschritt": "ACTIVATION: CO2 "
     },
@@ -96,11 +76,23 @@
         "Arbeitsschritt": "ACTIVATION: CO2 "
     },
     {
-        "SAMPLE_NAME": "MM-28_E2_R15_Com_bd",
+        "SAMPLE_NAME": "MM-32_E3_R03_Com_1",
+        "Arbeitsschritt": "ACTIVATION: CO2 "
+    },
+    {
+        "SAMPLE_NAME": "MM-33_E3_R04_Com_ac",
+        "Arbeitsschritt": "ACTIVATION: CO2 "
+    },
+    {
+        "SAMPLE_NAME": "MM-14_E2_R01_Com_ab",
         "Arbeitsschritt": "ACTIVATION: N2 273K"
     },
     {
-        "SAMPLE_NAME": "MM-30_E3_R01_Com_ab",
+        "SAMPLE_NAME": "MM-15_E2_R02_Com_b",
+        "Arbeitsschritt": "ACTIVATION: N2 273K"
+    },
+    {
+        "SAMPLE_NAME": "MM-20_E2_R07_Com_bc",
         "Arbeitsschritt": "ACTIVATION: N2 273K"
     },
     {
@@ -120,11 +112,11 @@
         "Arbeitsschritt": "ACTIVATION: N2 77K "
     },
     {
-        "SAMPLE_NAME": "MM-20_E2_R07_Com_bc",
+        "SAMPLE_NAME": "MM-55_Kynol_Com_c",
         "Arbeitsschritt": "ACTIVATION: N2 77K "
     },
     {
-        "SAMPLE_NAME": "MM-25_E2_R12_Com_abcd",
+        "SAMPLE_NAME": "MM-57_Kynol_Com_pure",
         "Arbeitsschritt": "ACTIVATION: N2 77K "
     }
 ]
