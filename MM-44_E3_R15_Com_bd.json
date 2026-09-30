@@ -10,9 +10,9 @@
     "TF TEMPERATURE": "800°C/4h",
     "POSITION Tube Furnace": "upper left",
     "MASS: after Tube furnace [mg]": "30.09.2026",
-    "O2 PLASMA ": "",
-    "MASS: after O2 Plasma": "",
-    "IMPREGNATION": "",
+    "O2 PLASMA ": "01.10.2026",
+    "MASS: after O2 Plasma": "01.10.2026",
+    "IMPREGNATION": "01.10.2026",
     "Polymer": "PEI-branched-low",
     "MASS: after impregnation": "",
     "SYNTHESIS DONE?": "NO",
@@ -25,6 +25,7 @@
     "ACTIVATION: N2 77K ": "",
     "MEASUREMENT: N2 77K": "",
     "ADSORPTION CHARACTERIZATION DONE?": "",
+    "SEM": "",
     "Elemental Analysis": "",
     "ANMERKUNGEN": ""
 }

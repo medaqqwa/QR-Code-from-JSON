@@ -12,7 +12,7 @@
     "MASS: after Tube furnace [mg]": "0.2023",
     "O2 PLASMA ": "24.09.2026",
     "MASS: after O2 Plasma": "0.1802",
-    "IMPREGNATION": "",
+    "IMPREGNATION": "01.10.2026",
     "Polymer": "PEI-branched-high",
     "MASS: after impregnation": "",
     "SYNTHESIS DONE?": "NO",
@@ -25,6 +25,7 @@
     "ACTIVATION: N2 77K ": "",
     "MEASUREMENT: N2 77K": "",
     "ADSORPTION CHARACTERIZATION DONE?": "",
+    "SEM": "",
     "Elemental Analysis": "",
     "ANMERKUNGEN": ""
 }

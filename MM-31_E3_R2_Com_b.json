@@ -15,8 +15,8 @@
     "IMPREGNATION": "30.09.2026",
     "Polymer": "PEI-branched-low",
     "MASS: after impregnation": "",
-    "SYNTHESIS DONE?": "NO",
-    "ACTIVATION: CO2 ": "",
+    "SYNTHESIS DONE?": "DONE",
+    "ACTIVATION: CO2 ": "30.09.2026",
     "MEASUREMENT: CO2 ": "",
     "ACTIVATION: N2 273K": "",
     "MEASUREMENT: N2 273 K": "",
@@ -25,6 +25,7 @@
     "ACTIVATION: N2 77K ": "",
     "MEASUREMENT: N2 77K": "",
     "ADSORPTION CHARACTERIZATION DONE?": "",
+    "SEM": "",
     "Elemental Analysis": "",
     "ANMERKUNGEN": ""
 }

@@ -16,22 +16,6 @@
         "Arbeitsschritt": "CA TREATMENT AT 60°C"
     },
     {
-        "SAMPLE_NAME": "MM-37_E3_R8_Com_d",
-        "Arbeitsschritt": "MASS: after CA Treatment (60°C) [mg]"
-    },
-    {
-        "SAMPLE_NAME": "MM-38_E3_R9_Com_ad",
-        "Arbeitsschritt": "MASS: after CA Treatment (60°C) [mg]"
-    },
-    {
-        "SAMPLE_NAME": "MM-40_E3_R11_Com_acd",
-        "Arbeitsschritt": "MASS: after CA Treatment (60°C) [mg]"
-    },
-    {
-        "SAMPLE_NAME": "MM-41_E3_R12_Com_abcd",
-        "Arbeitsschritt": "MASS: after CA Treatment (60°C) [mg]"
-    },
-    {
         "SAMPLE_NAME": "MM-54_Kynol_Com_d",
         "Arbeitsschritt": "TUBE FURNACE "
     },
@@ -66,6 +50,26 @@
     {
         "SAMPLE_NAME": "MM-31_E3_R2_Com_b",
         "Arbeitsschritt": "IMPREGNATION"
+    },
+    {
+        "SAMPLE_NAME": "MM-25_E2_R12_Com_abcd",
+        "Arbeitsschritt": "ACTIVATION: CO2 "
+    },
+    {
+        "SAMPLE_NAME": "MM-27_E2_R14_Com_abd",
+        "Arbeitsschritt": "ACTIVATION: CO2 "
+    },
+    {
+        "SAMPLE_NAME": "MM-28_E2_R15_Com_bd",
+        "Arbeitsschritt": "ACTIVATION: CO2 "
+    },
+    {
+        "SAMPLE_NAME": "MM-30_E3_R1_Com_ab",
+        "Arbeitsschritt": "ACTIVATION: CO2 "
+    },
+    {
+        "SAMPLE_NAME": "MM-31_E3_R2_Com_b",
+        "Arbeitsschritt": "ACTIVATION: CO2 "
     },
     {
         "SAMPLE_NAME": "MM-15_E2_R2_Com_b",
