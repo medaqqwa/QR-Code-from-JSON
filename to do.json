@@ -88,20 +88,36 @@
         "Arbeitsschritt": "MEASUREMENT: CO2 "
     },
     {
+        "SAMPLE_NAME": "MM-21_E2_R8_Com_d",
+        "Arbeitsschritt": "ACTIVATION: N2 273K fo NOVA"
+    },
+    {
+        "SAMPLE_NAME": "MM-22_E2_R9_Com_ad",
+        "Arbeitsschritt": "ACTIVATION: N2 273K fo NOVA"
+    },
+    {
+        "SAMPLE_NAME": "MM-23_E2_R10_Com_abc",
+        "Arbeitsschritt": "ACTIVATION: N2 273K fo NOVA"
+    },
+    {
+        "SAMPLE_NAME": "MM-24_E2_R11_Com_acd",
+        "Arbeitsschritt": "ACTIVATION: N2 273K fo NOVA"
+    },
+    {
         "SAMPLE_NAME": "MM-15_E2_R2_Com_b",
-        "Arbeitsschritt": "MEASUREMENT: N2 273 K"
+        "Arbeitsschritt": "MEASUREMENT: N2 273 K NOVA"
     },
     {
         "SAMPLE_NAME": "MM-20_E2_R7_Com_bc",
-        "Arbeitsschritt": "MEASUREMENT: N2 273 K"
+        "Arbeitsschritt": "MEASUREMENT: N2 273 K NOVA"
     },
     {
         "SAMPLE_NAME": "MM-55_Kynol_Com_c",
-        "Arbeitsschritt": "MEASUREMENT: N2 273 K"
+        "Arbeitsschritt": "MEASUREMENT: N2 273 K NOVA"
     },
     {
         "SAMPLE_NAME": "MM-57_Kynol_Com_pure",
-        "Arbeitsschritt": "MEASUREMENT: N2 273 K"
+        "Arbeitsschritt": "MEASUREMENT: N2 273 K NOVA"
     },
     {
         "SAMPLE_NAME": "MM-55_Kynol_Com_c",
