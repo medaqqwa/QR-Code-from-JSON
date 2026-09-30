@@ -16,11 +16,11 @@
         "Arbeitsschritt": "CA TREATMENT AT 60°C"
     },
     {
-        "SAMPLE_NAME": "MM-37_E3_R08_Com_d",
+        "SAMPLE_NAME": "MM-37_E3_R8_Com_d",
         "Arbeitsschritt": "MASS: after CA Treatment (60°C) [mg]"
     },
     {
-        "SAMPLE_NAME": "MM-38_E3_R09_Com_ad",
+        "SAMPLE_NAME": "MM-38_E3_R9_Com_ad",
         "Arbeitsschritt": "MASS: after CA Treatment (60°C) [mg]"
     },
     {
@@ -60,35 +60,35 @@
         "Arbeitsschritt": "IMPREGNATION"
     },
     {
-        "SAMPLE_NAME": "MM-30_E3_R01_Com_ab",
+        "SAMPLE_NAME": "MM-30_E3_R1_Com_ab",
         "Arbeitsschritt": "IMPREGNATION"
     },
     {
-        "SAMPLE_NAME": "MM-31_E3_R02_Com_b",
+        "SAMPLE_NAME": "MM-31_E3_R2_Com_b",
         "Arbeitsschritt": "IMPREGNATION"
     },
     {
-        "SAMPLE_NAME": "MM-15_E2_R02_Com_b",
+        "SAMPLE_NAME": "MM-15_E2_R2_Com_b",
         "Arbeitsschritt": "MEASUREMENT: CO2 "
     },
     {
-        "SAMPLE_NAME": "MM-20_E2_R07_Com_bc",
+        "SAMPLE_NAME": "MM-20_E2_R7_Com_bc",
         "Arbeitsschritt": "MEASUREMENT: CO2 "
     },
     {
-        "SAMPLE_NAME": "MM-32_E3_R03_Com_1",
+        "SAMPLE_NAME": "MM-32_E3_R3_Com_1",
         "Arbeitsschritt": "MEASUREMENT: CO2 "
     },
     {
-        "SAMPLE_NAME": "MM-33_E3_R04_Com_ac",
+        "SAMPLE_NAME": "MM-33_E3_R4_Com_ac",
         "Arbeitsschritt": "MEASUREMENT: CO2 "
     },
     {
-        "SAMPLE_NAME": "MM-15_E2_R02_Com_b",
+        "SAMPLE_NAME": "MM-15_E2_R2_Com_b",
         "Arbeitsschritt": "MEASUREMENT: N2 273 K"
     },
     {
-        "SAMPLE_NAME": "MM-20_E2_R07_Com_bc",
+        "SAMPLE_NAME": "MM-20_E2_R7_Com_bc",
         "Arbeitsschritt": "MEASUREMENT: N2 273 K"
     },
     {
