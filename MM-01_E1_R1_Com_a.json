@@ -1,7 +1,7 @@
 {
     "SAMPLE_NAME": "MM-01_E1_R1_Com_a",
     "BESCHREIBUNG": "Beladung 80%, Methanol 2,75 mL",
-    "FINISHED COMPLETELY?": "no",
+    "Spalte1": "",
     "BEGINNING": "12.08.2026",
     "MASS: Kynol-20 [mg]": "ca. 0,1650",
     "CA TREATMENT AT 60°C": "not needed",
@@ -19,16 +19,14 @@
     "SYNTHESIS DONE?": "DONE",
     "ACTIVATION: CO2 ": "-",
     "MEASUREMENT: CO2 ": "-",
-    "ACTIVATION: N2 273K for Quadrasorb": "-",
+    "ACTIVATION: N2 273K Quadrasorb": "-",
     "MEASUREMENT: N2 273 K Quadrasorb": "-",
-    "ACTIVATION: N2 273K fo NOVA": "",
+    "ACTIVATION: N2 273K NOVA": "",
     "MEASUREMENT: N2 273 K NOVA": "",
-    "IAST?": "-",
-    "Neue Messung erforderlich?": "no",
     "ACTIVATION: N2 77K ": "-",
     "MEASUREMENT: N2 77K": "-",
     "ADSORPTION CHARACTERIZATION DONE?": "not needed",
     "SEM": "30.09.2026 - liegt bei Franz",
-    "Elemental Analysis": "not needed",
-    "ANMERKUNGEN": "aktiviert bei 120°C und kaputt "
+    "Elemental Analysis": "",
+    "ANMERKUNGEN": ""
 }
