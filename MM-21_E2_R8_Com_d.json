@@ -1,9 +1,10 @@
 {
     "SAMPLE_NAME": "MM-21_E2_R8_Com_d",
     "BESCHREIBUNG": "Beladung 10%, Methanol 2,75 mL, N-Dotierung (800°C)",
-    "Spalte1": "",
+    "Polymer": "PEI-branched-high",
     "BEGINNING": "08.09.2026",
     "MASS: Kynol-20 [mg]": "0.1648",
+    "CA solution prepared": "08.09.2026",
     "CA TREATMENT AT 60°C": "08.09.2026",
     "Vessel CA Treatment": "PS",
     "MASS: after CA Treatment (60°C) [mg]": "0.4297",
@@ -14,7 +15,6 @@
     "O2 PLASMA ": "not needed",
     "MASS: after O2 Plasma": "not needed",
     "IMPREGNATION": "11.09.2026",
-    "Polymer": "PEI-branched-high",
     "MASS: after impregnation": "0.1998",
     "SYNTHESIS DONE?": "DONE",
     "ACTIVATION: CO2 ": "23.09.2026",
@@ -25,7 +25,7 @@
     "MEASUREMENT: N2 273 K NOVA": "01.10.2026",
     "ACTIVATION: N2 77K ": "24.09.2026",
     "MEASUREMENT: N2 77K": "25.09.2026",
-    "ADSORPTION CHARACTERIZATION DONE?": "DONE",
+    "ADSORPTION CHARACTERIZATION DONE?": "",
     "SEM": "",
     "Elemental Analysis": "",
     "ANMERKUNGEN": ""
