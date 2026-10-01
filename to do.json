@@ -40,22 +40,6 @@
         "Arbeitsschritt": "ACTIVATION: CO2 "
     },
     {
-        "SAMPLE_NAME": "MM-35_E3_R6_Com_c",
-        "Arbeitsschritt": "ACTIVATION: CO2 "
-    },
-    {
-        "SAMPLE_NAME": "MM-36_E3_R7_Com_bc",
-        "Arbeitsschritt": "ACTIVATION: CO2 "
-    },
-    {
-        "SAMPLE_NAME": "MM-37_E3_R8_Com_d",
-        "Arbeitsschritt": "ACTIVATION: CO2 "
-    },
-    {
-        "SAMPLE_NAME": "MM-39_E3_R10_Com_abc",
-        "Arbeitsschritt": "ACTIVATION: CO2 "
-    },
-    {
         "SAMPLE_NAME": "MM-25_E2_R12_Com_abcd",
         "Arbeitsschritt": "MEASUREMENT: CO2 "
     },
