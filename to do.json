@@ -8,14 +8,6 @@
         "Arbeitsschritt": "MASS: after CA Treatment (60°C) [mg]"
     },
     {
-        "SAMPLE_NAME": "MM-37_E3_R8_Com_d",
-        "Arbeitsschritt": "TUBE FURNACE "
-    },
-    {
-        "SAMPLE_NAME": "MM-38_E3_R9_Com_ad",
-        "Arbeitsschritt": "TUBE FURNACE "
-    },
-    {
         "SAMPLE_NAME": "MM-40_E3_R11_Com_acd",
         "Arbeitsschritt": "TUBE FURNACE "
     },
@@ -24,31 +16,15 @@
         "Arbeitsschritt": "TUBE FURNACE "
     },
     {
-        "SAMPLE_NAME": "MM-44_E3_R15_Com_bd",
-        "Arbeitsschritt": "O2 PLASMA "
+        "SAMPLE_NAME": "MM-54_Kynol_Com_d",
+        "Arbeitsschritt": "TUBE FURNACE "
     },
     {
-        "SAMPLE_NAME": "MM-44_E3_R15_Com_bd",
-        "Arbeitsschritt": "MASS: after O2 Plasma"
+        "SAMPLE_NAME": "MM-56_Kynol_Com_cd",
+        "Arbeitsschritt": "TUBE FURNACE "
     },
     {
         "SAMPLE_NAME": "MM-36_E3_R7_Com_bc",
-        "Arbeitsschritt": "IMPREGNATION"
-    },
-    {
-        "SAMPLE_NAME": "MM-44_E3_R15_Com_bd",
-        "Arbeitsschritt": "IMPREGNATION"
-    },
-    {
-        "SAMPLE_NAME": "MM-45_E3_R16_Com_bcd",
-        "Arbeitsschritt": "IMPREGNATION"
-    },
-    {
-        "SAMPLE_NAME": "MM-49_E4_R12_Com_abcd",
-        "Arbeitsschritt": "IMPREGNATION"
-    },
-    {
-        "SAMPLE_NAME": "MM-50_E4_R13_Com_cd",
         "Arbeitsschritt": "IMPREGNATION"
     },
     {
