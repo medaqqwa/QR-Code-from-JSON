@@ -80,22 +80,6 @@
         "Arbeitsschritt": "IMPREGNATION"
     },
     {
-        "SAMPLE_NAME": "MM-28_E2_R15_Com_bd",
-        "Arbeitsschritt": "ACTIVATION: CO2 "
-    },
-    {
-        "SAMPLE_NAME": "MM-30_E3_R1_Com_ab",
-        "Arbeitsschritt": "ACTIVATION: CO2 "
-    },
-    {
-        "SAMPLE_NAME": "MM-31_E3_R2_Com_b",
-        "Arbeitsschritt": "ACTIVATION: CO2 "
-    },
-    {
-        "SAMPLE_NAME": "MM-34_E3_R5_Com_a",
-        "Arbeitsschritt": "ACTIVATION: CO2 "
-    },
-    {
         "SAMPLE_NAME": "MM-14_E2_R1_Com_ab",
         "Arbeitsschritt": "ACTIVATION: N2 273K NOVA"
     },
@@ -110,6 +94,22 @@
     {
         "SAMPLE_NAME": "MM-23_E2_R10_Com_abc",
         "Arbeitsschritt": "ACTIVATION: N2 273K NOVA"
+    },
+    {
+        "SAMPLE_NAME": "MM-16_E2_R3_Com_1",
+        "Arbeitsschritt": "ACTIVATION: N2 77K "
+    },
+    {
+        "SAMPLE_NAME": "MM-17_E2_R4_Com_ac",
+        "Arbeitsschritt": "ACTIVATION: N2 77K "
+    },
+    {
+        "SAMPLE_NAME": "MM-18_E2_R5_Com_a",
+        "Arbeitsschritt": "ACTIVATION: N2 77K "
+    },
+    {
+        "SAMPLE_NAME": "MM-25_E2_R12_Com_abcd",
+        "Arbeitsschritt": "ACTIVATION: N2 77K "
     },
     {
         "SAMPLE_NAME": "MM-15_E2_R2_Com_b",
