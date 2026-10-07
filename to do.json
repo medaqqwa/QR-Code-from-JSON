@@ -24,20 +24,12 @@
         "Arbeitsschritt": "BEGINNING"
     },
     {
-        "SAMPLE_NAME": "MM-43_E3_R14_Com_abd",
-        "Arbeitsschritt": "CA solution prepared"
-    },
-    {
         "SAMPLE_NAME": "MM-37_E3_R8_Com_d",
         "Arbeitsschritt": "MASS: after Tube furnace [mg]"
     },
     {
         "SAMPLE_NAME": "MM-38_E3_R9_Com_ad",
         "Arbeitsschritt": "MASS: after Tube furnace [mg]"
-    },
-    {
-        "SAMPLE_NAME": "MM-37_E3_R8_Com_d",
-        "Arbeitsschritt": "O2 PLASMA "
     },
     {
         "SAMPLE_NAME": "MM-36_E3_R7_Com_bc",
