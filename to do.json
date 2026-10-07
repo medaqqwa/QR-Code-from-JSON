@@ -104,10 +104,6 @@
         "Arbeitsschritt": " CO2: ACTIVATION"
     },
     {
-        "SAMPLE_NAME": "MM-19_E2_R6_Com_c",
-        "Arbeitsschritt": " CO2: MEASUREMENT"
-    },
-    {
         "SAMPLE_NAME": "MM-24_E2_R11_Com_acd",
         "Arbeitsschritt": " CO2: MEASUREMENT"
     },
@@ -117,6 +113,10 @@
     },
     {
         "SAMPLE_NAME": "MM-18_E2_R5_Com_a",
+        "Arbeitsschritt": "N2 77K: MEASUREMENT"
+    },
+    {
+        "SAMPLE_NAME": "MM-19_E2_R6_Com_c",
         "Arbeitsschritt": "N2 77K: MEASUREMENT"
     },
     {
