@@ -1,1 +1,178 @@
-[]
+[
+    {
+        "SAMPLE_NAME": "MM-36_E3_R7_Com_bc",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-43_E3_R14_Com_abd",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-65_E5_R8_Com_d",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-66_E5_R9_Com_ad",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-68_E5_R11_Com_acd",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-69_E5_R12_Com_abcd",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-70_E5_R13_Com_cd",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-71_E5_R14_Com_abd",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-72_E5_R15_Com_bd",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-73_E5_R16_Com_bcd",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-36_E3_R7_Com_bc",
+        "Arbeitsschritt": "MASS: Kynol-20 [mg]"
+    },
+    {
+        "SAMPLE_NAME": "MM-43_E3_R14_Com_abd",
+        "Arbeitsschritt": "MASS: Kynol-20 [mg]"
+    },
+    {
+        "SAMPLE_NAME": "MM-65_E5_R8_Com_d",
+        "Arbeitsschritt": "MASS: Kynol-20 [mg]"
+    },
+    {
+        "SAMPLE_NAME": "MM-66_E5_R9_Com_ad",
+        "Arbeitsschritt": "MASS: Kynol-20 [mg]"
+    },
+    {
+        "SAMPLE_NAME": "MM-68_E5_R11_Com_acd",
+        "Arbeitsschritt": "MASS: Kynol-20 [mg]"
+    },
+    {
+        "SAMPLE_NAME": "MM-69_E5_R12_Com_abcd",
+        "Arbeitsschritt": "MASS: Kynol-20 [mg]"
+    },
+    {
+        "SAMPLE_NAME": "MM-70_E5_R13_Com_cd",
+        "Arbeitsschritt": "MASS: Kynol-20 [mg]"
+    },
+    {
+        "SAMPLE_NAME": "MM-71_E5_R14_Com_abd",
+        "Arbeitsschritt": "MASS: Kynol-20 [mg]"
+    },
+    {
+        "SAMPLE_NAME": "MM-72_E5_R15_Com_bd",
+        "Arbeitsschritt": "MASS: Kynol-20 [mg]"
+    },
+    {
+        "SAMPLE_NAME": "MM-73_E5_R16_Com_bcd",
+        "Arbeitsschritt": "MASS: Kynol-20 [mg]"
+    },
+    {
+        "SAMPLE_NAME": "MM-65_E5_R8_Com_d",
+        "Arbeitsschritt": "CA 60°C"
+    },
+    {
+        "SAMPLE_NAME": "MM-66_E5_R9_Com_ad",
+        "Arbeitsschritt": "CA 60°C"
+    },
+    {
+        "SAMPLE_NAME": "MM-68_E5_R11_Com_acd",
+        "Arbeitsschritt": "CA 60°C"
+    },
+    {
+        "SAMPLE_NAME": "MM-69_E5_R12_Com_abcd",
+        "Arbeitsschritt": "CA 60°C"
+    },
+    {
+        "SAMPLE_NAME": "MM-70_E5_R13_Com_cd",
+        "Arbeitsschritt": "CA 60°C"
+    },
+    {
+        "SAMPLE_NAME": "MM-71_E5_R14_Com_abd",
+        "Arbeitsschritt": "CA 60°C"
+    },
+    {
+        "SAMPLE_NAME": "MM-72_E5_R15_Com_bd",
+        "Arbeitsschritt": "CA 60°C"
+    },
+    {
+        "SAMPLE_NAME": "MM-73_E5_R16_Com_bcd",
+        "Arbeitsschritt": "CA 60°C"
+    },
+    {
+        "SAMPLE_NAME": "MM-65_E5_R8_Com_d",
+        "Arbeitsschritt": "Vessel CA Treatment"
+    },
+    {
+        "SAMPLE_NAME": "MM-66_E5_R9_Com_ad",
+        "Arbeitsschritt": "Vessel CA Treatment"
+    },
+    {
+        "SAMPLE_NAME": "MM-68_E5_R11_Com_acd",
+        "Arbeitsschritt": "Vessel CA Treatment"
+    },
+    {
+        "SAMPLE_NAME": "MM-69_E5_R12_Com_abcd",
+        "Arbeitsschritt": "Vessel CA Treatment"
+    },
+    {
+        "SAMPLE_NAME": "MM-70_E5_R13_Com_cd",
+        "Arbeitsschritt": "Vessel CA Treatment"
+    },
+    {
+        "SAMPLE_NAME": "MM-71_E5_R14_Com_abd",
+        "Arbeitsschritt": "Vessel CA Treatment"
+    },
+    {
+        "SAMPLE_NAME": "MM-72_E5_R15_Com_bd",
+        "Arbeitsschritt": "Vessel CA Treatment"
+    },
+    {
+        "SAMPLE_NAME": "MM-73_E5_R16_Com_bcd",
+        "Arbeitsschritt": "Vessel CA Treatment"
+    },
+    {
+        "SAMPLE_NAME": "MM-34_E3_R5_Com_a",
+        "Arbeitsschritt": "ACTIVATION CO2 273 K"
+    },
+    {
+        "SAMPLE_NAME": "MM-35_E3_R6_Com_c",
+        "Arbeitsschritt": "ACTIVATION CO2 273 K"
+    },
+    {
+        "SAMPLE_NAME": "MM-29_E2_R16_Com_bcd",
+        "Arbeitsschritt": "ACTIVATION N2 273 K"
+    },
+    {
+        "SAMPLE_NAME": "MM-34_E3_R5_Com_a",
+        "Arbeitsschritt": "ACTIVATION N2 77 K"
+    },
+    {
+        "SAMPLE_NAME": "MM-35_E3_R6_Com_c",
+        "Arbeitsschritt": "ACTIVATION N2 77 K"
+    },
+    {
+        "SAMPLE_NAME": "MM-22_E2_R9_Com_ad",
+        "Arbeitsschritt": "N2 77 K MEASUREMENT"
+    },
+    {
+        "SAMPLE_NAME": "MM-24_E2_R11_Com_acd",
+        "Arbeitsschritt": "N2 77 K MEASUREMENT"
+    },
+    {
+        "SAMPLE_NAME": "MM-27_E2_R14_Com_abd",
+        "Arbeitsschritt": "N2 77 K MEASUREMENT"
+    }
+]
