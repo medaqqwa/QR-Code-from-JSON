@@ -4,7 +4,8 @@
     "VERWENDETES POLYMER:": "PEI-branched-high",
     "STAMMLÖSUNG_POLYMER: ": "07.09.2026 - 2,1904 g PEI (branched, high) in 20 mL MeOH",
     "BEGINNING": "24.09.2026",
-    "MASS: Kynol-20 [mg]": "0.1631",
+    "Sorbent": "Kynol-20",
+    "MASS: Sorbent [mg]": "0.1631",
     "CA-STAMMLÖSUNG:": "24.09.2026 - 3,3 mL je Probe",
     "CA 60°C": "24.09.2026",
     "Vessel CA Treatment": "kleines UG",
@@ -23,10 +24,10 @@
     "CO2 273 K MEASUREMENT": "01.10.2026",
     "Plausible Isotherm?": "yes",
     "ACTIVATION N2 273 K": "20.10.2026",
-    "N2 273 K MEASUREMENT": "23.09.2026 + 09.10.2026",
-    "Plausible Isotherm CO2?": "no",
+    "N2 273 K MEASUREMENT": "23.09.2026 + 09.10.2026 + 29.10.2026 + 02.11.2026",
+    "Plausible Isotherm CO2?": "yes",
     "ACTIVATION N2 77 K": "",
     "N2 77 K MEASUREMENT": "24.09.2026 + 07.10.2026",
-    "Plausible Isotherm N2 77K?": "NO",
+    "Plausible Isotherm N2 77K?": "yes",
     "Charakterisierung Physisorption beendet am?": ""
 }
