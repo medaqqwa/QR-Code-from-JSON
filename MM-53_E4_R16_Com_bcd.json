@@ -1,5 +1,6 @@
 {
     "SAMPLE_NAME": "MM-53_E4_R16_Com_bcd",
+    "VR": "4",
     "BESCHREIBUNG:": "Beladung 10%, Methanol 16,5 mL, O2-Plasma, N-Dotierung (650°C)",
     "VERWENDETES POLYMER:": "PEI-branched-high",
     "STAMMLÖSUNG_POLYMER: ": "07.09.2026 - 2,1904 g PEI (branched, high) in 20 mL MeOH",
@@ -29,5 +30,5 @@
     "ACTIVATION N2 77 K": "",
     "N2 77 K MEASUREMENT": "",
     "Plausible Isotherm N2 77K?": "",
-    "Charakterisierung Physisorption beendet am?": ""
+    "PHYSISORPTION": ""
 }

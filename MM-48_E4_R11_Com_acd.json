@@ -1,5 +1,6 @@
 {
     "SAMPLE_NAME": "MM-48_E4_R11_Com_acd",
+    "VR": "4",
     "BESCHREIBUNG:": "Beladung 80%, Methanol 2,75 mL, O2-Plasma, N-Dotierung (650°C)",
     "VERWENDETES POLYMER:": "PEI-branched-high",
     "STAMMLÖSUNG_POLYMER: ": "07.09.2026 - 2,1904 g PEI (branched, high) in 20 mL MeOH",
@@ -29,5 +30,5 @@
     "ACTIVATION N2 77 K": "22.09.2026",
     "N2 77 K MEASUREMENT": "23.09.2026",
     "Plausible Isotherm N2 77K?": "no",
-    "Charakterisierung Physisorption beendet am?": ""
+    "PHYSISORPTION": ""
 }

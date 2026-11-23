@@ -1,6 +1,18 @@
 [
     {
-        "SAMPLE_NAME": "MM-80_E6_Com_abd",
+        "SAMPLE_NAME": "MM-74_E6_Com_ab",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-75_E6_Com_b",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-76_E6_Com_1",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-77_E6_Com_a",
         "Arbeitsschritt": "BEGINNING"
     },
     {
@@ -8,39 +20,47 @@
         "Arbeitsschritt": "BEGINNING"
     },
     {
-        "SAMPLE_NAME": "MM-80_E6_Com_abd",
+        "SAMPLE_NAME": "MM-82_E7_R9_Com_d",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-83_E7_R10_Com_ad",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-87_E7_R14_Com_abd",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-88_E7_R15_Com_bd",
+        "Arbeitsschritt": "BEGINNING"
+    },
+    {
+        "SAMPLE_NAME": "MM-81_E6_Com_bd",
         "Arbeitsschritt": "CA 60°C"
     },
     {
-        "SAMPLE_NAME": "MM-37_E3_R8_Com_d",
+        "SAMPLE_NAME": "MM-80_E6_Com_abd",
         "Arbeitsschritt": "DATE: TUBE FURNACE "
+    },
+    {
+        "SAMPLE_NAME": "MM-37_E3_R8_Com_d",
+        "Arbeitsschritt": "MASS: after Tube furnace [mg]"
+    },
+    {
+        "SAMPLE_NAME": "MM-37_E3_R8_Com_d",
+        "Arbeitsschritt": "IMPREGNATION"
     },
     {
         "SAMPLE_NAME": "MM-43_E3_R14_Com_abd",
-        "Arbeitsschritt": "DATE: TUBE FURNACE "
-    },
-    {
-        "SAMPLE_NAME": "MM-71_E5_R14_Com_abd",
-        "Arbeitsschritt": "DATE: TUBE FURNACE "
-    },
-    {
-        "SAMPLE_NAME": "MM-72_E5_R15_Com_bd",
-        "Arbeitsschritt": "DATE: TUBE FURNACE "
-    },
-    {
-        "SAMPLE_NAME": "MM-58_E5_R1_Com_ab",
         "Arbeitsschritt": "IMPREGNATION"
     },
     {
-        "SAMPLE_NAME": "MM-69_E5_R12_Com_abcd",
-        "Arbeitsschritt": "IMPREGNATION"
+        "SAMPLE_NAME": "MM-37_E3_R8_Com_d",
+        "Arbeitsschritt": "MASS: after impregnation"
     },
     {
-        "SAMPLE_NAME": "MM-73_E5_R16_Com_bcd",
-        "Arbeitsschritt": "IMPREGNATION"
-    },
-    {
-        "SAMPLE_NAME": "MM-58_E5_R1_Com_ab",
+        "SAMPLE_NAME": "MM-43_E3_R14_Com_abd",
         "Arbeitsschritt": "MASS: after impregnation"
     },
     {
@@ -50,17 +70,21 @@
     {
         "SAMPLE_NAME": "MM-73_E5_R16_Com_bcd",
         "Arbeitsschritt": "MASS: after impregnation"
-    },
-    {
-        "SAMPLE_NAME": "MM-61_52_R4_Com_ac",
-        "Arbeitsschritt": "ACTIVATION CO2 273 K"
     },
     {
         "SAMPLE_NAME": "MM-63_E5_R6_Com_c",
-        "Arbeitsschritt": "ACTIVATION CO2 273 K"
+        "Arbeitsschritt": "ACTIVATION N2 273 K"
     },
     {
-        "SAMPLE_NAME": "MM-64_E5_R7_Com_bc",
-        "Arbeitsschritt": "ACTIVATION CO2 273 K"
+        "SAMPLE_NAME": "MM-67_E5_R10_Com_abc",
+        "Arbeitsschritt": "ACTIVATION N2 273 K"
+    },
+    {
+        "SAMPLE_NAME": "MM-69_E5_R12_Com_abcd",
+        "Arbeitsschritt": "ACTIVATION N2 273 K"
+    },
+    {
+        "SAMPLE_NAME": "MM-71_E5_R14_Com_abd",
+        "Arbeitsschritt": "ACTIVATION N2 273 K"
     }
 ]

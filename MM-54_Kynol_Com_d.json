@@ -1,5 +1,6 @@
 {
     "SAMPLE_NAME": "MM-54_Kynol_Com_d",
+    "VR": "Kynol",
     "BESCHREIBUNG:": "Kynol, N-Dotierung (800°C), kein Polymer",
     "VERWENDETES POLYMER:": "not needed",
     "STAMMLÖSUNG_POLYMER: ": "not needed ",
@@ -27,7 +28,7 @@
     "N2 273 K MEASUREMENT": "26.10.2026 + 29.10.2026",
     "Plausible Isotherm CO2?": "yes",
     "ACTIVATION N2 77 K": "23.10.2026",
-    "N2 77 K MEASUREMENT": "30.10.2026",
+    "N2 77 K MEASUREMENT": "30.10.2026 + 02.11.2026",
     "Plausible Isotherm N2 77K?": "yes",
-    "Charakterisierung Physisorption beendet am?": ""
+    "PHYSISORPTION": ""
 }

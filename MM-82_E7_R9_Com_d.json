@@ -1,9 +1,10 @@
 {
     "SAMPLE_NAME": "MM-82_E7_R9_Com_d",
+    "VR": "7",
     "BESCHREIBUNG:": "Beladung 10%, Methanol 2,75 mL, N-Dotierung (650°C)",
     "VERWENDETES POLYMER:": "PEI-branched-low",
     "STAMMLÖSUNG_POLYMER: ": "10.09.2026 - 2,1730 g PEI (branched, low) in 20 mL MeOH",
-    "BEGINNING": "",
+    "BEGINNING": "23.11.2026",
     "Sorbent": "Kynol-20",
     "MASS: Sorbent [mg]": "",
     "CA-STAMMLÖSUNG:": "",
@@ -29,5 +30,5 @@
     "ACTIVATION N2 77 K": "",
     "N2 77 K MEASUREMENT": "",
     "Plausible Isotherm N2 77K?": "",
-    "Charakterisierung Physisorption beendet am?": ""
+    "PHYSISORPTION": ""
 }

@@ -1,0 +1,101 @@
+{
+    "VR": "7",
+    "Proben": {
+        "MM-82_E7_R9_Com_d": {
+            "Synthesis": "NO",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        },
+        "MM-83_E7_R10_Com_ad": {
+            "Synthesis": "NO",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        },
+        "MM-84_E7_R11_Com_acd": {
+            "Synthesis": "NO",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        },
+        "MM-85_E7_R12_Com_abcd": {
+            "Synthesis": "NO",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        },
+        "MM-86_E7_R13_Com_cd": {
+            "Synthesis": "NO",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        },
+        "MM-87_E7_R14_Com_abd": {
+            "Synthesis": "NO",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        },
+        "MM-88_E7_R15_Com_bd": {
+            "Synthesis": "NO",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        },
+        "MM-89_E7_R16_Com_bcd": {
+            "Synthesis": "NO",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        }
+    }
+}

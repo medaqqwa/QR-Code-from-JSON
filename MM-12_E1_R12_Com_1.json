@@ -1,5 +1,6 @@
 {
     "SAMPLE_NAME": "MM-12_E1_R12_Com_1",
+    "VR": "1",
     "BESCHREIBUNG:": "Beladung 10%, Methanol 2,75 mL",
     "VERWENDETES POLYMER:": "PEI-branched-high",
     "STAMMLÖSUNG_POLYMER: ": "11.08.2026 - 2,1938 g PEI (branched, high) in 20 mL MeOH",
@@ -29,5 +30,5 @@
     "ACTIVATION N2 77 K": "done",
     "N2 77 K MEASUREMENT": "done",
     "Plausible Isotherm N2 77K?": "",
-    "Charakterisierung Physisorption beendet am?": ""
+    "PHYSISORPTION": ""
 }

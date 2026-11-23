@@ -1,0 +1,177 @@
+{
+    "VR": "5",
+    "Proben": {
+        "MM-58_E5_R1_Com_ab": {
+            "Synthesis": "DONE",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        },
+        "MM-59_E5_R2_Com_b": {
+            "Synthesis": "DONE",
+            "Physisorption": "DONE",
+            "Messungen": {
+                "N2": "ready",
+                "CO2": "ready"
+            },
+            "Fehlende_Physisorptionsmessungen": []
+        },
+        "MM-60_E5_R3_Com_1": {
+            "Synthesis": "DONE",
+            "Physisorption": "DONE",
+            "Messungen": {
+                "N2": "ready",
+                "CO2": "ready"
+            },
+            "Fehlende_Physisorptionsmessungen": []
+        },
+        "MM-61_52_R4_Com_ac": {
+            "Synthesis": "DONE",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        },
+        "MM-62_E5_R5_Com_a": {
+            "Synthesis": "DONE",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "ready"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2"
+            ]
+        },
+        "MM-63_E5_R6_Com_c": {
+            "Synthesis": "DONE",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        },
+        "MM-64_E5_R7_Com_bc": {
+            "Synthesis": "DONE",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "ready"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2"
+            ]
+        },
+        "MM-65_E5_R8_Com_d": {
+            "Synthesis": "DONE",
+            "Physisorption": "DONE",
+            "Messungen": {
+                "N2": "ready",
+                "CO2": "ready"
+            },
+            "Fehlende_Physisorptionsmessungen": []
+        },
+        "MM-66_E5_R9_Com_ad": {
+            "Synthesis": "DONE",
+            "Physisorption": "DONE",
+            "Messungen": {
+                "N2": "ready",
+                "CO2": "ready"
+            },
+            "Fehlende_Physisorptionsmessungen": []
+        },
+        "MM-67_E5_R10_Com_abc": {
+            "Synthesis": "DONE",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        },
+        "MM-68_E5_R11_Com_acd": {
+            "Synthesis": "DONE",
+            "Physisorption": "DONE",
+            "Messungen": {
+                "N2": "ready",
+                "CO2": "ready"
+            },
+            "Fehlende_Physisorptionsmessungen": []
+        },
+        "MM-69_E5_R12_Com_abcd": {
+            "Synthesis": "DONE",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        },
+        "MM-70_E5_R13_Com_cd": {
+            "Synthesis": "DONE",
+            "Physisorption": "DONE",
+            "Messungen": {
+                "N2": "ready",
+                "CO2": "ready"
+            },
+            "Fehlende_Physisorptionsmessungen": []
+        },
+        "MM-71_E5_R14_Com_abd": {
+            "Synthesis": "DONE",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        },
+        "MM-72_E5_R15_Com_bd": {
+            "Synthesis": "DONE",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        },
+        "MM-73_E5_R16_Com_bcd": {
+            "Synthesis": "DONE",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2",
+                "CO2"
+            ]
+        }
+    }
+}

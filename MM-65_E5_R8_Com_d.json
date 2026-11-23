@@ -1,5 +1,6 @@
 {
     "SAMPLE_NAME": "MM-65_E5_R8_Com_d",
+    "VR": "5",
     "BESCHREIBUNG:": "Beladung 10%, Methanol 2,75 mL, N-Dotierung (800°C)",
     "VERWENDETES POLYMER:": "PEI-linear",
     "STAMMLÖSUNG_POLYMER: ": "07.10.2026 - 0,3134 g PEI (linear) in 2.857 mL MeOH",
@@ -23,11 +24,11 @@
     "ACTIVATION CO2 273 K": "12.11.2026",
     "CO2 273 K MEASUREMENT": "13.11.2026",
     "Plausible Isotherm?": "yes",
-    "ACTIVATION N2 273 K": "",
+    "ACTIVATION N2 273 K": "15.11.2026",
     "N2 273 K MEASUREMENT": "16.11.2026",
     "Plausible Isotherm CO2?": "yes",
-    "ACTIVATION N2 77 K": "",
+    "ACTIVATION N2 77 K": "16.11.2026",
     "N2 77 K MEASUREMENT": "17.11.2026",
     "Plausible Isotherm N2 77K?": "yes",
-    "Charakterisierung Physisorption beendet am?": ""
+    "PHYSISORPTION": "DONE"
 }

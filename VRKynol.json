@@ -1,0 +1,45 @@
+{
+    "VR": "Kynol",
+    "Proben": {
+        "MM-54_Kynol_Com_d": {
+            "Synthesis": "DONE",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "ready",
+                "CO2": "ready"
+            },
+            "Fehlende_Physisorptionsmessungen": []
+        },
+        "MM-55_Kynol_Com_c": {
+            "Synthesis": "DONE",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "ready",
+                "CO2": "ready"
+            },
+            "Fehlende_Physisorptionsmessungen": []
+        },
+        "MM-56_Kynol_Com_cd": {
+            "Synthesis": "DONE",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "pending",
+                "CO2": "ready"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "N2"
+            ]
+        },
+        "MM-57_Kynol_Com_pure": {
+            "Synthesis": "DONE",
+            "Physisorption": "NO",
+            "Messungen": {
+                "N2": "ready",
+                "CO2": "pending"
+            },
+            "Fehlende_Physisorptionsmessungen": [
+                "CO2"
+            ]
+        }
+    }
+}

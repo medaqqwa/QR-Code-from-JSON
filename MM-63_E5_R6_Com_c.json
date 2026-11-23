@@ -1,5 +1,6 @@
 {
     "SAMPLE_NAME": "MM-63_E5_R6_Com_c",
+    "VR": "5",
     "BESCHREIBUNG:": "Beladung 10%, Methanol 2,75 mL, O2-Plasma Aktivierung",
     "VERWENDETES POLYMER:": "PEI-linear",
     "STAMMLÖSUNG_POLYMER: ": "07.10.2026 - 0,3134 g PEI (linear) in 2.857 mL MeOH",
@@ -20,14 +21,14 @@
     "MASS: after impregnation": "0.025",
     "SYNTHESIS DONE?": "DONE",
     "SAMPLE_NR": "MM-63_E5_R6_Com_c",
-    "ACTIVATION CO2 273 K": "19.11.2026",
+    "ACTIVATION CO2 273 K": "",
     "CO2 273 K MEASUREMENT": "",
     "Plausible Isotherm?": "",
-    "ACTIVATION N2 273 K": "",
+    "ACTIVATION N2 273 K": "23.11.2026",
     "N2 273 K MEASUREMENT": "",
     "Plausible Isotherm CO2?": "",
     "ACTIVATION N2 77 K": "",
     "N2 77 K MEASUREMENT": "",
     "Plausible Isotherm N2 77K?": "",
-    "Charakterisierung Physisorption beendet am?": ""
+    "PHYSISORPTION": ""
 }

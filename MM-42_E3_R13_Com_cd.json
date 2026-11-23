@@ -1,5 +1,6 @@
 {
     "SAMPLE_NAME": "MM-42_E3_R13_Com_cd",
+    "VR": "3",
     "BESCHREIBUNG:": "Beladung 10%, Methanol 2,75 mL, O2-Plasma, N-Dotierung",
     "VERWENDETES POLYMER:": "PEI-branched-low",
     "STAMMLÖSUNG_POLYMER: ": "10.09.2026 - 2,1730 g PEI (branched, low) in 20 mL MeOH",
@@ -29,5 +30,5 @@
     "ACTIVATION N2 77 K": "05.11.2026",
     "N2 77 K MEASUREMENT": "06.11.2026",
     "Plausible Isotherm N2 77K?": "yes",
-    "Charakterisierung Physisorption beendet am?": ""
+    "PHYSISORPTION": "DONE"
 }

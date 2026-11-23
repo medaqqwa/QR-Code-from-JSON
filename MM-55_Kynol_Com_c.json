@@ -1,5 +1,6 @@
 {
     "SAMPLE_NAME": "MM-55_Kynol_Com_c",
+    "VR": "Kynol",
     "BESCHREIBUNG:": "Kynol, O2-Plasma, kein Polymer",
     "VERWENDETES POLYMER:": "not needed",
     "STAMMLÖSUNG_POLYMER: ": "not needed ",
@@ -29,5 +30,5 @@
     "ACTIVATION N2 77 K": "29.09.2026",
     "N2 77 K MEASUREMENT": "30.09.2026",
     "Plausible Isotherm N2 77K?": "yes",
-    "Charakterisierung Physisorption beendet am?": ""
+    "PHYSISORPTION": ""
 }

@@ -1,5 +1,6 @@
 {
     "SAMPLE_NAME": "MM-27_E2_R14_Com_abd",
+    "VR": "2",
     "BESCHREIBUNG:": "Beladung 80%, Methanol 16,5 mL, N-Dotierung",
     "VERWENDETES POLYMER:": "PEI-branched-high",
     "STAMMLÖSUNG_POLYMER: ": "07.09.2026 - 2,1904 g PEI (branched, high) in 20 mL MeOH",
@@ -24,10 +25,10 @@
     "CO2 273 K MEASUREMENT": "22.09.2026 + 01.10.2026",
     "Plausible Isotherm?": "yes",
     "ACTIVATION N2 273 K": "08.10.2026",
-    "N2 273 K MEASUREMENT": "24.09.2026 + 09.10.2026",
-    "Plausible Isotherm CO2?": "no",
+    "N2 273 K MEASUREMENT": "24.09.2026 + 09.10.2026 + 20.11.2026",
+    "Plausible Isotherm CO2?": "yes",
     "ACTIVATION N2 77 K": "20.10.2026-1",
     "N2 77 K MEASUREMENT": "24.09.2026 + 07.10.2026 + 23.10.2026",
     "Plausible Isotherm N2 77K?": "yes",
-    "Charakterisierung Physisorption beendet am?": ""
+    "PHYSISORPTION": "DONE"
 }

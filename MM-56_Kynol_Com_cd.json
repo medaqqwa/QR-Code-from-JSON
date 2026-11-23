@@ -1,5 +1,6 @@
 {
     "SAMPLE_NAME": "MM-56_Kynol_Com_cd",
+    "VR": "Kynol",
     "BESCHREIBUNG:": "Kynol, O2-Plasma, N-Doteirung (800°C), kein Polymer",
     "VERWENDETES POLYMER:": "not needed",
     "STAMMLÖSUNG_POLYMER: ": "not needed ",
@@ -29,5 +30,5 @@
     "ACTIVATION N2 77 K": "23.10.2026",
     "N2 77 K MEASUREMENT": "30.10.2026",
     "Plausible Isotherm N2 77K?": "no",
-    "Charakterisierung Physisorption beendet am?": ""
+    "PHYSISORPTION": ""
 }

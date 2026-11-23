@@ -1,5 +1,6 @@
 {
     "SAMPLE_NAME": "MM-38_E3_R9_Com_ad",
+    "VR": "3",
     "BESCHREIBUNG:": "Beladung 80%, Methanol 2,75 mL, N-Dotierung 800°C",
     "VERWENDETES POLYMER:": "PEI-branched-low",
     "STAMMLÖSUNG_POLYMER: ": "10.09.2026 - 2,1730 g PEI (branched, low) in 20 mL MeOH",
@@ -25,9 +26,9 @@
     "Plausible Isotherm?": "yes",
     "ACTIVATION N2 273 K": "05.11.2026",
     "N2 273 K MEASUREMENT": "06.11.2026",
-    "Plausible Isotherm CO2?": "yes",
+    "Plausible Isotherm CO2?": "no",
     "ACTIVATION N2 77 K": "12.11.2026",
     "N2 77 K MEASUREMENT": "",
-    "Plausible Isotherm N2 77K?": "",
-    "Charakterisierung Physisorption beendet am?": ""
+    "Plausible Isotherm N2 77K?": "no",
+    "PHYSISORPTION": ""
 }

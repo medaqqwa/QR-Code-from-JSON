@@ -1,5 +1,6 @@
 {
     "SAMPLE_NAME": "MM-19_E2_R6_Com_c",
+    "VR": "2",
     "BESCHREIBUNG:": "Beladung 10%, Methanol 2,75 mL, O2-Plasma Aktivierung",
     "VERWENDETES POLYMER:": "PEI-branched-high",
     "STAMMLÖSUNG_POLYMER: ": "07.09.2026 - 2,1904 g PEI (branched, high) in 20 mL MeOH",
@@ -29,5 +30,5 @@
     "ACTIVATION N2 77 K": "07.10.2026",
     "N2 77 K MEASUREMENT": "08.10.2026",
     "Plausible Isotherm N2 77K?": "yes",
-    "Charakterisierung Physisorption beendet am?": ""
+    "PHYSISORPTION": "DONE"
 }
