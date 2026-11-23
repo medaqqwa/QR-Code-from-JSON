@@ -2,11 +2,12 @@
     "VR": "Kynol",
     "Proben": {
         "MM-54_Kynol_Com_d": {
-            "Synthesis": "DONE",
+            "Synthesis": "NO",
             "Physisorption": "NO",
             "Messungen": {
-                "N2": "ready",
-                "CO2": "ready"
+                "CO2 273 K": "ready",
+                "N2 273 K": "ready",
+                "N2 77 K": "ready"
             },
             "Fehlende_Physisorptionsmessungen": []
         },
@@ -14,8 +15,9 @@
             "Synthesis": "DONE",
             "Physisorption": "NO",
             "Messungen": {
-                "N2": "ready",
-                "CO2": "ready"
+                "CO2 273 K": "ready",
+                "N2 273 K": "ready",
+                "N2 77 K": "ready"
             },
             "Fehlende_Physisorptionsmessungen": []
         },
@@ -23,22 +25,24 @@
             "Synthesis": "DONE",
             "Physisorption": "NO",
             "Messungen": {
-                "N2": "pending",
-                "CO2": "ready"
+                "CO2 273 K": "ready",
+                "N2 273 K": "ready",
+                "N2 77 K": "pending"
             },
             "Fehlende_Physisorptionsmessungen": [
-                "N2"
+                "N2 77 K"
             ]
         },
         "MM-57_Kynol_Com_pure": {
             "Synthesis": "DONE",
             "Physisorption": "NO",
             "Messungen": {
-                "N2": "ready",
-                "CO2": "pending"
+                "CO2 273 K": "ready",
+                "N2 273 K": "pending",
+                "N2 77 K": "ready"
             },
             "Fehlende_Physisorptionsmessungen": [
-                "CO2"
+                "N2 273 K"
             ]
         }
     }

@@ -5,20 +5,23 @@
             "Synthesis": "DONE",
             "Physisorption": "NO",
             "Messungen": {
-                "N2": "pending",
-                "CO2": "pending"
+                "CO2 273 K": "pending",
+                "N2 273 K": "pending",
+                "N2 77 K": "pending"
             },
             "Fehlende_Physisorptionsmessungen": [
-                "N2",
-                "CO2"
+                "CO2 273 K",
+                "N2 273 K",
+                "N2 77 K"
             ]
         },
         "MM-59_E5_R2_Com_b": {
             "Synthesis": "DONE",
             "Physisorption": "DONE",
             "Messungen": {
-                "N2": "ready",
-                "CO2": "ready"
+                "CO2 273 K": "ready",
+                "N2 273 K": "ready",
+                "N2 77 K": "ready"
             },
             "Fehlende_Physisorptionsmessungen": []
         },
@@ -26,8 +29,9 @@
             "Synthesis": "DONE",
             "Physisorption": "DONE",
             "Messungen": {
-                "N2": "ready",
-                "CO2": "ready"
+                "CO2 273 K": "ready",
+                "N2 273 K": "ready",
+                "N2 77 K": "ready"
             },
             "Fehlende_Physisorptionsmessungen": []
         },
@@ -35,54 +39,60 @@
             "Synthesis": "DONE",
             "Physisorption": "NO",
             "Messungen": {
-                "N2": "pending",
-                "CO2": "pending"
+                "CO2 273 K": "ready",
+                "N2 273 K": "pending",
+                "N2 77 K": "pending"
             },
             "Fehlende_Physisorptionsmessungen": [
-                "N2",
-                "CO2"
+                "N2 273 K",
+                "N2 77 K"
             ]
         },
         "MM-62_E5_R5_Com_a": {
             "Synthesis": "DONE",
             "Physisorption": "NO",
             "Messungen": {
-                "N2": "pending",
-                "CO2": "ready"
+                "CO2 273 K": "ready",
+                "N2 273 K": "ready",
+                "N2 77 K": "pending"
             },
             "Fehlende_Physisorptionsmessungen": [
-                "N2"
+                "N2 77 K"
             ]
         },
         "MM-63_E5_R6_Com_c": {
             "Synthesis": "DONE",
             "Physisorption": "NO",
             "Messungen": {
-                "N2": "pending",
-                "CO2": "pending"
+                "CO2 273 K": "pending",
+                "N2 273 K": "pending",
+                "N2 77 K": "pending"
             },
             "Fehlende_Physisorptionsmessungen": [
-                "N2",
-                "CO2"
+                "CO2 273 K",
+                "N2 273 K",
+                "N2 77 K"
             ]
         },
         "MM-64_E5_R7_Com_bc": {
             "Synthesis": "DONE",
             "Physisorption": "NO",
             "Messungen": {
-                "N2": "pending",
-                "CO2": "ready"
+                "CO2 273 K": "ready",
+                "N2 273 K": "ready",
+                "N2 77 K": "pending"
             },
             "Fehlende_Physisorptionsmessungen": [
-                "N2"
+                "N2 77 K"
             ]
         },
         "MM-65_E5_R8_Com_d": {
             "Synthesis": "DONE",
             "Physisorption": "DONE",
             "Messungen": {
-                "N2": "ready",
-                "CO2": "ready"
+                "CO2 273 K": "ready",
+                "N2 273 K": "ready",
+                "N2 77 K": "ready"
             },
             "Fehlende_Physisorptionsmessungen": []
         },
@@ -90,8 +100,9 @@
             "Synthesis": "DONE",
             "Physisorption": "DONE",
             "Messungen": {
-                "N2": "ready",
-                "CO2": "ready"
+                "CO2 273 K": "ready",
+                "N2 273 K": "ready",
+                "N2 77 K": "ready"
             },
             "Fehlende_Physisorptionsmessungen": []
         },
@@ -99,20 +110,22 @@
             "Synthesis": "DONE",
             "Physisorption": "NO",
             "Messungen": {
-                "N2": "pending",
-                "CO2": "pending"
+                "CO2 273 K": "ready",
+                "N2 273 K": "pending",
+                "N2 77 K": "pending"
             },
             "Fehlende_Physisorptionsmessungen": [
-                "N2",
-                "CO2"
+                "N2 273 K",
+                "N2 77 K"
             ]
         },
         "MM-68_E5_R11_Com_acd": {
             "Synthesis": "DONE",
             "Physisorption": "DONE",
             "Messungen": {
-                "N2": "ready",
-                "CO2": "ready"
+                "CO2 273 K": "ready",
+                "N2 273 K": "ready",
+                "N2 77 K": "ready"
             },
             "Fehlende_Physisorptionsmessungen": []
         },
@@ -120,20 +133,23 @@
             "Synthesis": "DONE",
             "Physisorption": "NO",
             "Messungen": {
-                "N2": "pending",
-                "CO2": "pending"
+                "CO2 273 K": "pending",
+                "N2 273 K": "pending",
+                "N2 77 K": "pending"
             },
             "Fehlende_Physisorptionsmessungen": [
-                "N2",
-                "CO2"
+                "CO2 273 K",
+                "N2 273 K",
+                "N2 77 K"
             ]
         },
         "MM-70_E5_R13_Com_cd": {
             "Synthesis": "DONE",
             "Physisorption": "DONE",
             "Messungen": {
-                "N2": "ready",
-                "CO2": "ready"
+                "CO2 273 K": "ready",
+                "N2 273 K": "ready",
+                "N2 77 K": "ready"
             },
             "Fehlende_Physisorptionsmessungen": []
         },
@@ -141,36 +157,40 @@
             "Synthesis": "DONE",
             "Physisorption": "NO",
             "Messungen": {
-                "N2": "pending",
-                "CO2": "pending"
+                "CO2 273 K": "ready",
+                "N2 273 K": "pending",
+                "N2 77 K": "pending"
             },
             "Fehlende_Physisorptionsmessungen": [
-                "N2",
-                "CO2"
+                "N2 273 K",
+                "N2 77 K"
             ]
         },
         "MM-72_E5_R15_Com_bd": {
             "Synthesis": "DONE",
             "Physisorption": "NO",
             "Messungen": {
-                "N2": "pending",
-                "CO2": "pending"
+                "CO2 273 K": "ready",
+                "N2 273 K": "pending",
+                "N2 77 K": "pending"
             },
             "Fehlende_Physisorptionsmessungen": [
-                "N2",
-                "CO2"
+                "N2 273 K",
+                "N2 77 K"
             ]
         },
         "MM-73_E5_R16_Com_bcd": {
             "Synthesis": "DONE",
             "Physisorption": "NO",
             "Messungen": {
-                "N2": "pending",
-                "CO2": "pending"
+                "CO2 273 K": "pending",
+                "N2 273 K": "pending",
+                "N2 77 K": "pending"
             },
             "Fehlende_Physisorptionsmessungen": [
-                "N2",
-                "CO2"
+                "CO2 273 K",
+                "N2 273 K",
+                "N2 77 K"
             ]
         }
     }
