@@ -23,12 +23,12 @@
     "SAMPLE_NR": "MM-01_E1_R1_Com_a",
     "ACTIVATION CO2 273 K": "done",
     "CO2 273 K MEASUREMENT": "done",
-    "Plausible Isotherm?": "",
+    "plausible isotherm CO2 273K?": "",
     "ACTIVATION N2 273 K": "done",
     "N2 273 K MEASUREMENT": "done",
-    "Plausible Isotherm CO2?": "",
+    "plausible isotherm N2 273K?": "",
     "ACTIVATION N2 77 K": "done",
     "N2 77 K MEASUREMENT": "done",
-    "Plausible Isotherm N2 77K?": "",
+    "plausible isotherm N2 77K?": "",
     "PHYSISORPTION": ""
 }

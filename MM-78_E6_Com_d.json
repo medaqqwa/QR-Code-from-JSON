@@ -23,12 +23,12 @@
     "SAMPLE_NR": "MM-78_E6_Com_d",
     "ACTIVATION CO2 273 K": "",
     "CO2 273 K MEASUREMENT": "",
-    "Plausible Isotherm?": "",
+    "plausible isotherm CO2 273K?": "",
     "ACTIVATION N2 273 K": "27.11.2026",
     "N2 273 K MEASUREMENT": "",
-    "Plausible Isotherm CO2?": "",
+    "plausible isotherm N2 273K?": "",
     "ACTIVATION N2 77 K": "",
     "N2 77 K MEASUREMENT": "",
-    "Plausible Isotherm N2 77K?": "",
+    "plausible isotherm N2 77K?": "",
     "PHYSISORPTION": ""
 }
