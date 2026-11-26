@@ -105,11 +105,10 @@
             "Physisorption": "NO",
             "Messungen": {
                 "CO2 273 K": "ready",
-                "N2 273 K": "pending",
+                "N2 273 K": "ready",
                 "N2 77 K": "pending"
             },
             "Fehlende_Physisorptionsmessungen": [
-                "N2 273 K",
                 "N2 77 K"
             ]
         },

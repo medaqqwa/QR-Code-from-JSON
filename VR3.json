@@ -143,7 +143,7 @@
             "Fehlende_Physisorptionsmessungen": []
         },
         "MM-43_E3_R14_Com_abd": {
-            "Synthesis": "NO",
+            "Synthesis": "DONE",
             "Physisorption": "NO",
             "Messungen": {
                 "CO2 273 K": "pending",
