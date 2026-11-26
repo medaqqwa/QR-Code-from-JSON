@@ -67,15 +67,13 @@
         },
         "MM-36_E3_R7_Com_bc": {
             "Synthesis": "DONE",
-            "Physisorption": "NO",
+            "Physisorption": "DONE",
             "Messungen": {
                 "CO2 273 K": "ready",
                 "N2 273 K": "ready",
-                "N2 77 K": "pending"
+                "N2 77 K": "ready"
             },
-            "Fehlende_Physisorptionsmessungen": [
-                "N2 77 K"
-            ]
+            "Fehlende_Physisorptionsmessungen": []
         },
         "MM-37_E3_R8_Com_d": {
             "Synthesis": "NO",

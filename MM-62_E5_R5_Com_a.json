@@ -18,7 +18,7 @@
     "DATE: O2 PLASMA ": "not needed",
     "MASS: after O2 Plasma": "not needed",
     "IMPREGNATION": "13.11.2026",
-    "MASS: after impregnation": "0.09811",
+    "MASS: after impregnation": "0.03461",
     "SYNTHESIS DONE?": "DONE",
     "SAMPLE_NR": "MM-62_E5_R5_Com_a",
     "ACTIVATION CO2 273 K": "13.11.2026",
@@ -30,5 +30,5 @@
     "ACTIVATION N2 77 K": "21.11.2026",
     "N2 77 K MEASUREMENT": "23.11.2026",
     "plausible isotherm N2 77K?": "yes",
-    "PHYSISORPTION": ""
+    "PHYSISORPTION": "DONE"
 }
